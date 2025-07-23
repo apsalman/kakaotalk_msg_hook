@@ -8,6 +8,7 @@
 
 이 소스는 카카오톡 클라이언트의 메모리에서 **주고받는 메시지를 JSON 형식으로 추출**하는 기능을 제공합니다.  
 이를 통해 카카오톡 메시지를 실시간으로 감지하고 자동화 작업에 활용할 수 있습니다.
+<img width="1083" height="1040" alt="image" src="https://github.com/user-attachments/assets/571c3e89-6aa3-4867-a96b-5fe6b23d4b42" />
 
 ---
 
